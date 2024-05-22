@@ -1,8 +1,8 @@
 {
-  "name": "plasmic-action",
+  "name": "yurekai-builder-action",
   "version": "0.0.0",
   "private": true,
-  "description": "Plasmic Sync and Build Action",
+  "description": "Builder YurekAI Sync and Build Action",
   "main": "lib/main.js",
   "scripts": {
     "build": "tsc",
@@ -18,14 +18,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plasmicapp/plasmic-action.git"
+    "url": "git+https://github.com/iwhdevops/yurekai-builder-action.git"
   },
   "keywords": [
     "actions",
     "node",
     "plasmic"
   ],
-  "author": "Plasmic <ops@plasmic.app>",
+  "author": "Builder YurekAI <ops@yurekai.com>",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
